@@ -1,3 +1,4 @@
+<img width="1878" height="920" alt="image" src="https://github.com/user-attachments/assets/d4014f64-4469-4336-b82a-34dbf898948e" />
 # 🚀 Trend Discovery Agent (n8n)
 
 An automated AI agent built in **n8n** that converts simple human inputs into professional market trend reports using **Google Gemini** and **SerpApi**.
